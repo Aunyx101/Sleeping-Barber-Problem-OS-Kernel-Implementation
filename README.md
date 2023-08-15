@@ -11,7 +11,7 @@ down (if there are empty chairs) or leave the shop (if all chairs are full). The
 problem is to program the barber and the customers without getting into race 
 conditions.
 
-*Use The Following Link For Working Tutorial (Replace The Hello World Code With The Code Provided In 'CODE FOR KERNEL.txt'): 
+*Use The Following Link For Working Tutorial (Replace The Hello World Code With The Code Provided In 'CODE FOR KERNEL.c'): 
 https://www.youtube.com/watch?v=qcsKGWshRZE&t=1491s
 
 *Read 'OS Project Report.pdf' For More Details. 
